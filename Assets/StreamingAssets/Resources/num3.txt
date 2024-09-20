@@ -1,0 +1,51 @@
+:: StoryTitle
+greetings
+
+:: UserScript[script]
+
+
+:: UserStylesheet[stylesheet]
+
+
+:: Untitled Passage[START]
+Welcome to fabLab Solisaire , the workshop of the construction and manufacture of 3D objects
+[[hello]]
+
+
+
+
+:: hello
+we have machines in this workshop you can try using them
+[[okay thank you ]]
+[[I have some questions]]
+[[How can I use these machines?]]
+
+:: okay thank you
+Okay then see you later
+[[see you]]
+[[I have some questions]]
+
+:: How can I use these machines?
+Click on the orange cercle of the machine 
+[[next step]]
+[[I got it]]
+
+:: I have some questions
+Sure,You can write your question here and our ODC admin will send you an email answring your questions
+[[okay, thank you ]]
+
+:: next step
+click on show more button, and click on Try to mill or Try to print
+[[okay thank you]]
+
+:: see you
+[[end]]
+
+:: okay thank you
+[[end]]
+
+:: end[END]
+
+
+:: Send
+[[yep, you get it]]

@@ -1,0 +1,40 @@
+:: StoryTitle
+testinput
+
+:: UserScript[script]
+
+
+:: UserStylesheet[stylesheet]
+
+
+:: Untitled Passage[START]
+Hello
+[[hi]]
+
+:: hi
+How are you doing ?
+[[ehh]]
+[[i am good,thx]]
+[[doing great what about you]]
+
+:: doing great what about you
+i am doing ok thx for asking
+[[great]]
+
+:: i am good,thx
+good 
+[[End]]
+
+:: ehh
+[[End]]
+
+
+:: great
+may i ask your name ?
+[[Send]]
+
+:: Send
+[[End]] 
+
+:: End[END]
+

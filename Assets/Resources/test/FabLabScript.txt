@@ -1,0 +1,24 @@
+:: StoryTitle
+test
+
+:: UserScript[script]
+
+
+:: UserStylesheet[stylesheet]
+
+
+:: start[START]
+Wellcome to FabLab
+[[Hello]]
+
+:: Hello
+How can i help you
+[[i am just looking around]]
+
+
+:: i am just looking around
+Great, Have a Nice Day.
+[[Thx, To You As Well.]]
+
+:: Thx, To You As Well.[END]
+

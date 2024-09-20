@@ -1,0 +1,20 @@
+:: StoryTitle
+test
+
+:: UserScript[script]
+
+
+:: UserStylesheet[stylesheet]
+
+
+:: test [START]
+helloTest4
+[[hi]]
+
+:: hi
+Did the text change 
+[[Hope so]]
+
+
+:: Hope so[END]
+
